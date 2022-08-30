@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-cal-imc/static/css/main.10aa76bb.css",
+    "main.js": "/react-cal-imc/static/js/main.24ee5c3c.js",
+    "static/js/787.b99090c1.chunk.js": "/react-cal-imc/static/js/787.b99090c1.chunk.js",
+    "static/media/powered.png": "/react-cal-imc/static/media/powered.31688c4f015d2f42e203.png",
+    "index.html": "/react-cal-imc/index.html",
+    "main.10aa76bb.css.map": "/react-cal-imc/static/css/main.10aa76bb.css.map",
+    "main.24ee5c3c.js.map": "/react-cal-imc/static/js/main.24ee5c3c.js.map",
+    "787.b99090c1.chunk.js.map": "/react-cal-imc/static/js/787.b99090c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10aa76bb.css",
+    "static/js/main.24ee5c3c.js"
+  ]
+}

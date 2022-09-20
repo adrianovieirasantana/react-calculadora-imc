@@ -7,7 +7,7 @@ fazendo uma calculadora de IMC.
 Projeto desenvolvido durante o curso de React.
 
 ### Instalação 
-- `npm install`
+- `npm install` 
 
 ### Para rodar
 - `npm start`
